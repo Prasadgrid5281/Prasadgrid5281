@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Front end projects 
 - 📫 How to reach me ... vkanugula@griddynamics.com
 - 😄 Pronouns: ... Prasad
-- ⚡ Fun fact: ...  
+- ⚡ Fun fact: ...  "Love the code you wrote"
 
 <!---
 Prasadgrid5281/Prasadgrid5281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
